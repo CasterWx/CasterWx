@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+访问次数: ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
 
 - 🌱 I’m currently learning
