@@ -2,6 +2,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
+
+- 🌱 I’m currently learning
+
+| 📫Repositories | ⚡URL | 💬Description |
+| ------- | ------- | -------- |
+| elasticsearch | https://github.com/elastic/elasticsearch | Open Source, Distributed, RESTful Search Engine |
+| kafka | https://github.com/apache/kafka | Mirror of Apache Kafka |
+| rocketmq | https://github.com/apache/rocketmq | Mirror of Apache RocketMQ |
+
 <!--
 **CasterWx/CasterWx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
