@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://antzuhl.cn:4000/get/@antzuhl.readme)](http://www.antzuhl.cn/)
+[![](http://antzuhl.cn:4000/get/@antzuhl.readme)](http://www.antzuhl.cn/)
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
