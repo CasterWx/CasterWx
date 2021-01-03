@@ -1,6 +1,18 @@
 ### Hi there 👋
 
+98年, 正在北京工作的社畜。
+
 [![](http://antzuhl.cn:4000/get/@antzuhl.readme)](http://antzuhl.cn/)
+
+### 如何逮到我
+
+#### 我的公众号
+
+![](https://antzyun.oss-cn-beijing.aliyuncs.com/imgqrcode_for_gh_f3457f4f73a1_258%20(1).jpg)
+
+#### 我的知识星球（免费）
+
+![](https://antzyun.oss-cn-beijing.aliyuncs.com/img29becd724eabe0d471b91777349abdc.png)
 
 ![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
