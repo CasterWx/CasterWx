@@ -1,6 +1,6 @@
 ### 本季度(3~6月)待办项 👋
 
-- [ ] 完成6篇以上技术博客产出 (4/6)
+- [ ] 完成6篇以上技术博客产出 (5/6)
   * 【RocketMQ源码分析】深入消息存储，CommitLog篇
     * https://mp.weixin.qq.com/s/fIDNYdwEvatPFiM0p-IUYA
     * http://antzuhl.cn/archives/rocketmqstore1
