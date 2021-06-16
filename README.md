@@ -13,6 +13,9 @@
   * QCon笔记~《天下武功，唯快不破——面向云原生应用的Java冷启动加速技术》
     * https://mp.weixin.qq.com/s/x_bkdsJ8R9jr1zoI12cOew
     * http://antzuhl.cn/archives/qconjava1
+  * Java协程实践指南(一)
+    * https://mp.weixin.qq.com/s/Rp9CHsph7NeEhvrPZrM9gw
+    * http://antzuhl.cn/archives/javaloom
 - [ ] 读完两本技术书籍、一本其它类书籍 (RocketMQ技术内幕、架构整洁之道)  (2/3)
   * Go语言高级编程
   * RocketMQ技术内幕
