@@ -16,7 +16,7 @@
   * Java协程实践指南(一)
     * https://mp.weixin.qq.com/s/Rp9CHsph7NeEhvrPZrM9gw
     * http://antzuhl.cn/archives/javaloom
-- [ ] 读完两本技术书籍、一本其它类书籍 (RocketMQ技术内幕、架构整洁之道)  (2/3)
+- [x] 读完两本技术书籍、一本其它类书籍 (RocketMQ技术内幕、架构整洁之道)  (3/3)
   * Go语言高级编程
   * RocketMQ技术内幕
   * 理解Linux进程
