@@ -1,6 +1,6 @@
 ### 本季度(3~6月)待办项 👋
 
-- [ ] 完成6篇以上技术博客产出 (5/6)
+- [ ] 完成6篇以上技术博客产出 (6/6)
   * 【RocketMQ源码分析】深入消息存储，CommitLog篇
     * https://mp.weixin.qq.com/s/fIDNYdwEvatPFiM0p-IUYA
     * http://antzuhl.cn/archives/rocketmqstore1
@@ -16,6 +16,10 @@
   * Java协程实践指南(一)
     * https://mp.weixin.qq.com/s/Rp9CHsph7NeEhvrPZrM9gw
     * http://antzuhl.cn/archives/javaloom
+  * Project Reactor
+    * https://mp.weixin.qq.com/s/ri6PkfqOMuxvwS3gRtrqPQ
+    * http://antzuhl.cn/archives/projectreactor
+
 - [x] 读完两本技术书籍、一本其它类书籍 (RocketMQ技术内幕、架构整洁之道)  (3/3)
   * Go语言高级编程
   * RocketMQ技术内幕
