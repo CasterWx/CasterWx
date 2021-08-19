@@ -13,6 +13,7 @@
 - [ ] 读完两本技术书籍、一本其它类书籍 (0/3)
   * 《数据密集型应用系统设计》 https://book.douban.com/subject/30329536/
   * [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
+  * System Design Interview
 - [ ] 刷剧
  * 犯罪心理学
 
