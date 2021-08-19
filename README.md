@@ -9,7 +9,7 @@
     * http://antzuhl.cn/archives/%E7%9B%91%E6%8E%A7%E6%9D%82%E8%B0%88
   * 方法论杂谈
     * TODO
-- [ ] leetcode 200题+ (43/200)
+- [ ] leetcode 200题+ (136/200)
 - [ ] 读完两本技术书籍、一本其它类书籍 (0/3)
   * 《数据密集型应用系统设计》 https://book.douban.com/subject/30329536/
   * [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
