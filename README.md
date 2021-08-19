@@ -9,6 +9,7 @@
     * http://antzuhl.cn/archives/%E7%9B%91%E6%8E%A7%E6%9D%82%E8%B0%88
   * 方法论杂谈
     * TODO
+  * 《System Design Interview》沉淀笔记(重要!)
 - [ ] leetcode 200题+ (136/200)
 - [ ] 读完两本技术书籍、一本其它类书籍 (0/3)
   * 《数据密集型应用系统设计》 https://book.douban.com/subject/30329536/
