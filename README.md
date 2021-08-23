@@ -15,8 +15,9 @@
   * 《数据密集型应用系统设计》 https://book.douban.com/subject/30329536/
   * [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
   * System Design Interview
+  * 《Google SRE工作手册》
 - [ ] 刷剧
- * 犯罪心理学
+ * 扫黑风暴
 
 </details>
 
