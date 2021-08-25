@@ -10,7 +10,7 @@
   * 方法论杂谈
     * TODO
   * 《System Design Interview》沉淀笔记(重要!)
-- [ ] leetcode 200题+ (157/200)
+- [ ] leetcode 200题+ (160/200)
 - [ ] 读完两本技术书籍、一本其它类书籍 (0/3)
   * 《数据密集型应用系统设计》 https://book.douban.com/subject/30329536/
   * [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
