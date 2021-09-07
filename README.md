@@ -64,3 +64,10 @@
  * 行尸走肉 1~6季
 
 </details>
+
+
+| 跑步记录 | 轨迹 |
+| ---------- | --------- |
+| <img style="height: 350px" src="https://raw.githubusercontent.com/CasterWx/running_page/3132cc7dd0e21d48838e84885e31fb00914a783b/assets/github.svg"> | <img style="height: 350px" src="https://raw.githubusercontent.com/CasterWx/running_page/3132cc7dd0e21d48838e84885e31fb00914a783b/assets/grid.svg"> |
+
+
