@@ -68,6 +68,6 @@
 
 | 跑步记录 | 轨迹 |
 | ---------- | --------- |
-| <img style="height: 350px" src="https://raw.githubusercontent.com/CasterWx/running_page/master/assets/github.svg"> | <img style="height: 350px" src="https://raw.githubusercontent.com/CasterWx/running_page/master/assets/grid.svg"> |
+| <a href="https://github.com/CasterWx"><img style="height: 350px" src="https://raw.githubusercontent.com/CasterWx/running_page/master/assets/github.svg"></a> | <a href="https://github.com/CasterWx"><img style="height: 350px" src="https://raw.githubusercontent.com/CasterWx/running_page/master/assets/grid.svg"></a> |
 
 
