@@ -3,13 +3,19 @@
 
  ### 本季度(7~10月)待办项 👋
 
-- [ ] 完成6篇以上技术博客产出 (1/6)
+- [ ] 完成6篇以上技术博客产出 (3/6)
   * 监控杂谈
     * https://mp.weixin.qq.com/s/Il3RE1WvVtOxCR8kSZcqmw
     * http://antzuhl.cn/archives/%E7%9B%91%E6%8E%A7%E6%9D%82%E8%B0%88
   * 方法论杂谈
     * TODO
-  * 《System Design Interview》沉淀笔记(重要!)
+  * 《System Design Interview》沉淀笔记 (重要!)
+    * 系统设计面试的万金油
+       - https://mp.weixin.qq.com/s/mJkd1Nwxlpew0DeBOuR5RA
+       - http://antzuhl.cn/archives/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E7%9A%84%E4%B8%87%E9%87%91%E6%B2%B9
+    * 系统设计实践 (01) - 短链服务
+       - https://mp.weixin.qq.com/s/IuocRYOwZHjB5n2Uxs9hGA
+       - http://antzuhl.cn/archives/xi-tong-she-ji-shi-jian-duan-lian-fu-wu
 - [ ] leetcode 200题+ (175/200)
 - [ ] 读完两本技术书籍、一本其它类书籍 (0/3)
   * 《数据密集型应用系统设计》 https://book.douban.com/subject/30329536/
