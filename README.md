@@ -12,7 +12,7 @@
   * 《System Design Interview》沉淀笔记 (重要!)
     * 系统设计面试的万金油
        - https://mp.weixin.qq.com/s/mJkd1Nwxlpew0DeBOuR5RA
-       - http://antzuhl.cn/archives/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E7%9A%84%E4%B8%87%E9%87%91%E6%B2%B9
+       - [http://antzuhl.cn/archives/系统设计面试的万金油](http://antzuhl.cn/archives/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E9%9D%A2%E8%AF%95%E7%9A%84%E4%B8%87%E9%87%91%E6%B2%B9)
     * 系统设计实践 (01) - 短链服务
        - https://mp.weixin.qq.com/s/IuocRYOwZHjB5n2Uxs9hGA
        - http://antzuhl.cn/archives/xi-tong-she-ji-shi-jian-duan-lian-fu-wu
