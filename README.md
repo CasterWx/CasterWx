@@ -3,7 +3,7 @@
 
  ### 本季度(7~10月)待办项 👋
 
-- [ ] 完成6篇以上技术博客产出 (3/6)
+- [ ] 完成6篇以上技术博客产出 (4/6)
   * 监控杂谈
     * https://mp.weixin.qq.com/s/Il3RE1WvVtOxCR8kSZcqmw
     * http://antzuhl.cn/archives/%E7%9B%91%E6%8E%A7%E6%9D%82%E8%B0%88
@@ -16,13 +16,16 @@
     * 系统设计实践 (01) - 短链服务
        - https://mp.weixin.qq.com/s/IuocRYOwZHjB5n2Uxs9hGA
        - http://antzuhl.cn/archives/xi-tong-she-ji-shi-jian-duan-lian-fu-wu
-- [ ] leetcode 200题+ (175/200)
+    * 系统设计实践 (02) - 文本存储服务
+       - https://mp.weixin.qq.com/s/ZGYf4Dh5qWc4x4bJ0jxWeA
+       - http://antzuhl.cn/archives/wen-ben-cun-chu-fu-wu
+- [ ] leetcode 200题+ (176/200)
 - [ ] 读完两本技术书籍、一本其它类书籍 (0/3)
   * 《数据密集型应用系统设计》 https://book.douban.com/subject/30329536/
   * [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
   * System Design Interview
   * 《Google SRE工作手册》
-- [ ] 刷剧
+- [x] 刷剧
  * 扫黑风暴
 
 </details>
