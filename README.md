@@ -22,7 +22,7 @@
     * 系统设计实践 (03) - Instagram社交服务
        - https://mp.weixin.qq.com/s/Rv8-UTuJZJ2aGspHQZIa4g
        - http://antzuhl.cn/archives/xi-tong-she-ji-shi-jian-03-instagram-she-jiao-fu-wu
-- [ ] leetcode 200题+ (176/200)
+- [ ] leetcode 200题+ (178/200)
 - [ ] 读完两本技术书籍、一本其它类书籍 (0/3)
   * 《数据密集型应用系统设计》 https://book.douban.com/subject/30329536/
   * [A Critique of ANSI SQL Isolation Levels](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-95-51.pdf)
