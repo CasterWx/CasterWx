@@ -76,6 +76,12 @@
  * 行尸走肉 1~6季
 
 </details>
+
+
+⬇️**点击下方资源分享平台**⬇️
+
+[http://pan.antzuhl.cn](http://pan.antzuhl.cn)
+
 <!-- 
 ⬇️**点击下方图片留言**⬇️
 
