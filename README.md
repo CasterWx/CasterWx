@@ -10,12 +10,11 @@
 
 #### 每周 AI Coding 挑战
 
-我的 AI Coding 产物榜，https://ai-topic.cn/product/index.html
-
 * **2025-05-25** [纯AI实现iOS App: 预设大师] 
 * **2025-05-18** [纯AI实现iOS App: 真相配方] 已上架
 * **2025-05-11** [纯AI实现iOS App: 原研药清单] 已上架
 * **2025-05-04** [纯AI实现iOS App: ClipyBuffer] 已上架
+* **更多** https://ai-topic.cn/product/index.html
 
 <table>
 <tr>
