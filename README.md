@@ -1,11 +1,24 @@
+<h3 align="center">👋 Hello! I'm AntzUhl</h3>
 
-<!-- 
-⬇️**点击下方图片留言**⬇️
+<p align="center">
+  <a target="_blank" href="https://ai-topic.cn/">Blog</a> •
+  <a target="_blank" href="https://x.com/RimaseToori">Twitter</a> 
+</p>
 
-[![](https://pan.antzuhl.cn/room/@antzuhl/svg?width=600&height=280&limit=20&theme=light&title=antzuhl@github:%20~&fontSize=13)](https://pan.antzuhl.cn/room/@antzuhl?title=AntzUhl)
- -->
-| 跑步记录 | 轨迹 |
-| ---------- | --------- |
-| <a href="https://github.com/CasterWx"><img style="height: 350px" src="https://raw.githubusercontent.com/CasterWx/running_page/master/assets/github.svg"></a> | <a href="https://github.com/CasterWx"><img style="height: 350px" src="https://raw.githubusercontent.com/CasterWx/running_page/master/assets/grid.svg"></a> |
+[![](https://count.getloli.com/get/@CasterWx.github.readme)](https://count.getloli.com/)
+ <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="CasterWx's github stats"/>
 
+#### 每周 AI Coding 挑战
 
+我的 AI Coding 产物榜，https://ai-topic.cn/product/index.html
+
+* **2025-05-25** [纯AI实现iOS App: 预设大师] 
+* **2025-05-18** [纯AI实现iOS App: 真相配方] 已上架
+* **2025-05-11** [纯AI实现iOS App: 原研药清单] 已上架
+* **2025-05-04** [纯AI实现iOS App: ClipyBuffer] 已上架
+
+<table>
+<tr>
+
+</tr>
+</table>
