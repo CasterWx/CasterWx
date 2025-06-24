@@ -1,8 +1,8 @@
 <h3 align="center">👋 Hello! I'm AntzUhl</h3>
 
 <p align="center">
-  <a target="_blank" href="https://ai-topic.cn/">Blog</a> •
-  <a target="_blank" href="https://x.com/RimaseToori">Twitter</a> 
+  <a target="_blank" href="">Blog</a> •
+  <a target="_blank" href="">Twitter</a> 
 </p>
 
 [![](https://count.getloli.com/get/@CasterWx.github.readme)](https://count.getloli.com/)
