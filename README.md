@@ -18,6 +18,7 @@ As early as my university studies, I explored a wide range of technologies inclu
 
 ### 🚀 Currently doing
 - 🤖 https://github.com/CasterWx/claude-code-viewer
+- 👁 https://github.com/CasterWx/ClawIsland
 
 ---
 
